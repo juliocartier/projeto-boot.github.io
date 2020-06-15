@@ -1,0 +1,24 @@
+.nav-color{
+	background-color: #e8eee5;
+}
+
+.container-fluid{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.container{
+	margin-top: 50px;
+}
+
+html{
+	scroll-behavior: smooth;
+}
+
+body{
+	font-family: 'Lexend Deca', sans-serif;
+}
+
+.color-footer{
+	background-color: #e8eee5;
+}
